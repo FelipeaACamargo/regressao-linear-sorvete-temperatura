@@ -12,6 +12,11 @@ Mostrar, de forma prática, como aplicar regressão linear para prever vendas a 
 - `dados/dados_sorvete.csv`: (opcional) dados em formato CSV para outras análises ou reutilização.
 - Este arquivo `README.md` com informações e instrução de uso.
 
+
+## Dados
+
+O arquivo `dados_sorvete.csv` contém os dados fictícios de temperatura e vendas de sorvete usados nos exemplos deste repositório.
+
 ## Como rodar este projeto:
 
 1. Abra o notebook no Google Colab ou Jupyter Notebook.
