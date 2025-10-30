@@ -15,4 +15,4 @@ Este repositório traz um exemplo didático de regressão linear simples utiliza
 - Visualização das métricas (MAE, MSE, RMSE, R²)
 - Gráfico do resultado
 
-Sinta-se livre para adaptar!
+Sinta-se livre para copiar e adaptar!
